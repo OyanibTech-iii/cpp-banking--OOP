@@ -72,7 +72,7 @@ BankingSystem (Main Controller)
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
+   git clone "https://github.com/OyanibTech-iii/cpp-banking--OOP.git"
    cd oyanib-banking-system
    ```
 
