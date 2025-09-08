@@ -2,7 +2,7 @@
 
 A comprehensive, object-oriented C++ banking system with advanced features including account management, loan processing, transaction handling, and secure authentication.
 
-## 🏦 Features
+## Features
 
 ### Core Banking Features
 - **Multi-Account Types**: Savings, Checking, and Credit accounts
