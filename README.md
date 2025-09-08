@@ -26,7 +26,7 @@ A comprehensive, object-oriented C++ banking system with advanced features inclu
 - **Encapsulation**: Private data members with public interfaces
 - **Abstraction**: Abstract base classes and interfaces
 
-## 🏗️ Architecture
+## Architecture
 
 ### Class Hierarchy
 
@@ -61,7 +61,7 @@ BankingSystem (Main Controller)
 └── Loan Management
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - C++17 compatible compiler (GCC 7+, Clang 5+, MSVC 2017+)
@@ -104,7 +104,7 @@ cl /std:c++17 /EHsc *.cpp /Fe:oyanib_bank.exe
 clang++ -std=c++17 -Wall -Wextra -O2 *.cpp -o oyanib_bank
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 oyanib-banking-system/
@@ -125,7 +125,7 @@ oyanib-banking-system/
     └── loans.txt
 ```
 
-## 🎯 Usage
+##  Usage
 
 ### Main Menu Options
 1. **Customer Login** - Access customer account
@@ -170,7 +170,7 @@ oyanib-banking-system/
 | Business  | 700             | $1,000,000 | 6-10%         |
 | Education | 600             | $100,000   | 3-6%          |
 
-## 🛡️ Security Features
+##  Security Features
 
 - **Password Protection**: All accounts require passwords
 - **Transaction Limits**: Daily and monthly withdrawal limits
@@ -178,7 +178,7 @@ oyanib-banking-system/
 - **Data Integrity**: File-based data persistence with backup
 - **Session Management**: Secure login/logout system
 
-## 📊 Data Persistence
+##  Data Persistence
 
 The system uses simple text files for data storage:
 - `customers.txt` - Customer information
@@ -188,7 +188,7 @@ The system uses simple text files for data storage:
 
 Data is automatically saved when exiting the program.
 
-## 🧪 Testing
+##  Testing
 
 ### Sample Data
 The system can create sample data for testing:
@@ -203,7 +203,7 @@ The system can create sample data for testing:
 4. **Interest Calculation**: Calculate and apply interest
 5. **Admin Functions**: Use admin panel features
 
-## 🔄 Future Enhancements
+##  Future Enhancements
 
 ### Planned Features
 - **Database Integration**: SQLite/MySQL support
@@ -222,7 +222,7 @@ The system can create sample data for testing:
 - **Error Handling**: Enhanced error management
 - **Logging**: Comprehensive system logging
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -230,25 +230,25 @@ The system can create sample data for testing:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
+##  Author
 
 **Oyanib Banking System**
 - Advanced C++ OOP Implementation
 - Version: 2.0
 - Build Date: 2024
 
-## 🆘 Support
+##  Support
 
 For support and questions:
 - Create an issue in the repository
 - Contact the development team
 - Check the documentation
 
-## 📈 Performance
+##  Performance
 
 - **Compilation Time**: ~5-10 seconds
 - **Startup Time**: <1 second
